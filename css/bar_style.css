@@ -1,0 +1,58 @@
+body {
+  width: 90%;
+  background-color: lightblue;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+img {
+  width: 300px;
+  height: 200px;
+}
+
+@media (min-width: 768px) {
+  body {
+    padding-left: 15%;
+  }
+
+  .image {
+    width: 70rem;
+  }
+
+  img {
+    float: right;
+    padding-right: 40%;
+  }
+
+  .nutrition_facts {
+    padding-left: 2%;
+  }
+
+  footer {
+    width: 55%;
+  }
+}
+
+@media (min-width: 1200px) {
+  body {
+    padding-left: 25%;
+    width: 150rem;
+  }
+
+  .image {
+    width: 80rem;
+  }
+
+  img {
+    float: right;
+    padding-right: 30%%;
+  }
+
+  .nutrition_facts {
+    padding-left: 2%;
+  }
+
+  footer {
+    width: 55%;
+  }
+}

@@ -1,0 +1,17 @@
+body {
+  background-color: lightblue;
+  padding-top: 2%;
+}
+
+.photos_specific {
+  padding-top: 1%;
+}
+
+img {
+  padding-top: 1rem;
+}
+
+.middle {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
