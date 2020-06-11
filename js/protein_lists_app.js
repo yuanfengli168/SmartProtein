@@ -59,7 +59,7 @@ function isProteinFound(protein) {
   // Make the input title lower case
   var lowercaseUserInput = userInput.toLowerCase();
   // Make the movie title lowercase
-  var lowercaseTitle = movie.title.toLowerCase();
+  var lowercaseTitle = protein.name.toLowerCase();
 
   // Check if the user input is in the lowercase movie title
   if (lowercaseTitle.indexOf(lowercaseUserInput) >= 0) {
