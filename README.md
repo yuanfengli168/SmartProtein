@@ -10,14 +10,18 @@
 
 ## Key Points:
 
-- There will be a search box in the search section, it will let you choose what type of protein you are willing to choose: Bars, Powders, drinks.
+- There will be a search box in the Search Protein page (you can find it at top right on Home Page). Search Protein Page will let you choose what type of protein you are willing to choose: Bars, Powders, drinks.
   -- For example, you could type quest in the search bar on the Search Protein page, and then you will have information about this. It includes calories, protein, carbs, and 1 serving.
 
-- it also tells you how much calories you are taking for one serving, it could tell you how much sugar and sodium it has in the specific page
+- On the specific pages, it tells you how much calories you are taking for one serving, it could tell you how much sugar and sodium it has in the specific page
+
+- You can press Smart Protein on the top left at Home page to find more info about Smart Protein!
+
+- Contact Section on top right is a link to my personal page.
 
 ## Website Links:
 
-[The Website's Link](https://yuanfengli168.github.io/SmartProtein/index.html)
+[Smart Protein's Link](https://yuanfengli168.github.io/SmartProtein/index.html)
 
 ## Basics:
 
