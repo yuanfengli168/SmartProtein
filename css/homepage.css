@@ -3,6 +3,10 @@ body {
   padding-top: 2%;
 }
 
+main {
+  text-align: center;
+}
+
 .photos_specific {
   padding-top: 1%;
 }
